@@ -13,3 +13,8 @@
 4. 게임회사 사이트
 5. 자리 없을때 인벤토리,판매,조합
 
+
+# Reference
+- flowchart </br>
+https://miro.com/ko/
+
